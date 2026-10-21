@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" fill="none">
+  <!-- Symbol Icon -->
+  <rect x="2" y="2" width="32" height="32" rx="8" fill="#0F172A" class="dark-invert"/>
+  <path d="M11 9H17C19.5 9 21.5 10.8 21.5 13C21.5 14.8 20.3 16.3 18.5 16.8V17H11V9Z" fill="#FFFFFF"/>
+  <path d="M11 17H15L20 23H16L12 18H11V23H9V9H11V17Z" fill="#FFFFFF"/>
+  <circle cx="21" cy="9.5" r="2.2" fill="#2563EB"/>
+  <path d="M17.5 13.5L19.5 15.5L23.5 11" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text Typographic Logotype -->
+  <text x="44" y="24" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#0F172A" letter-spacing="-0.5px">Revisa<tspan fill="#2563EB">Já</tspan></text>
+</svg>
